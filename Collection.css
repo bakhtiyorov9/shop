@@ -1,0 +1,40 @@
+.header__content-two{
+
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.header__content-two-img{
+    object-fit: cover;
+  
+}
+.content_container-two {
+
+    position: absolute;
+
+}
+
+.header__content-info-two{
+    text-align: center;
+}
+.header__content-title-two{
+    color: #BFD9FF;
+    font-weight: 900;
+    font-size: 48px;
+    font-style: italic;
+}
+.header__content-subtitle-two{
+    color: #FFE49E;
+padding-bottom: 40px;
+font-size: 36px;
+font-style: italic;
+font-weight: 900;
+}
+
+.page .container{
+    display: flex;
+    margin: 13px 0;
+    gap: 16px;
+}
